@@ -1,4 +1,3 @@
-# requirements.txt
-python
+python3
 tkinter
 pip 
