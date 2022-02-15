@@ -1,3 +1,4 @@
-Python 3.10.2
+Python
 tkinter
 pip 
+Python 3.10.2
