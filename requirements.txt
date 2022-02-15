@@ -1,4 +1,4 @@
 # requirements.txt
 Python3
 tkinter
-pip install -requirements.txt
+pip 
