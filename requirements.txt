@@ -1,4 +1,4 @@
-python==3.9.4
+Python
 tkinter
 pip3 
 
