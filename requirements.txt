@@ -1,5 +1,6 @@
 certifi==2021.10.8
 charset-normalizer==2.0.10
+conda==4.3.16
 cycler==0.11.0
 fonttools==4.28.5
 gunicorn==20.1.0
